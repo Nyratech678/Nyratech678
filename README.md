@@ -1,3 +1,5 @@
 <div align="center">
-  <img src="assets/banners/nyratech_banner.webp" style="width:100%; display:block; margin:0;" alt="Cyn_Animation">
+  <img src="assets/banners/nyratech_banner.webp" width="100%" style="display: block;">
+
+  <img src="assets/banners/final_github.gif" width="100%" style="display: block;">
 </div>
