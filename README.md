@@ -3,6 +3,6 @@
 
   <img src="assets/banners/final_github.gif" width="100%" style="display: block;">
 
-  <img src="assets/banners/badge_comp.png" width="100%"
+  <img src="assets/banners/Montserrat.png" width="100%"
   style="display: block;">
 </div>
